@@ -155,7 +155,7 @@ That is the direction this project is exploring. ✨
 
 ## 🤝 Want to understand or collaborate?
 
-If this sounds exciting, useful, or close to something you are trying to build, feel free to connect with me on GitHub. 🌐
+If this sounds exciting, useful, or close to something you are trying to build, feel free to connect with me on LinkedIn through my GitHub profile. 🌐
 
 I am open to discussing:
 
@@ -165,8 +165,6 @@ I am open to discussing:
 - 📚 learning experiments
 - 🤖 AI-assisted project building
 - 🛠️ practical use cases
-
-Message me on GitHub if you want to know more. 📩
 
 ---
 
