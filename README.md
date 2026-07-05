@@ -2,7 +2,7 @@
 
 ## Build with AI. But without the chaos.
 
-Most people start an AI coding project with excitement.
+Most people start an AI coding project with an excitement.
 Then the files grow, the prompts change, the logic breaks, and nobody remembers why something was built that way.
 
 This project is my attempt to solve that problem.
